@@ -68,6 +68,10 @@ export default function Home() {
                   Features
                 </Link>
 
+                <Link href="/blog" className="text-gray-600 hover:text-gray-900">
+                  Blog
+                </Link>
+
                 <Link href="#pricing" className="text-gray-600 hover:text-gray-900">
                   Pricing
                 </Link>
